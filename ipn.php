@@ -34,5 +34,4 @@ else {
 }
 
 //send email
-
 sendEmailAddress($objUser->email, $subject, $message);
